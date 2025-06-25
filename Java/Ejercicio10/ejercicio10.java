@@ -21,6 +21,5 @@ public class ejercicio10 {
         }
 
         System.out.println("El resultado es: " + resultado);
-        entrada.close();
     }
 }

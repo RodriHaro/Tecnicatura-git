@@ -17,6 +17,5 @@ public class ejercicio06 {
         System.out.println("El dinero de Juan es: " + juan);
         System.out.println("El dinero total de los tres es: US$" + total);
 
-        entrada.close();
     }
 }

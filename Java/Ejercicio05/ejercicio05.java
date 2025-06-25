@@ -17,7 +17,6 @@ public class ejercicio05 {
 
         System.out.println("La suma de las tres calificaciones es: " + suma);
 
-        entrada.close();
     }
 }
 

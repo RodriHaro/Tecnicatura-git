@@ -25,6 +25,5 @@ public class ejercicio08 {
         } else {
             System.out.println("El alumno está desaprobado con: " + promedio);
         }
-        entrada.close();
     }
 }

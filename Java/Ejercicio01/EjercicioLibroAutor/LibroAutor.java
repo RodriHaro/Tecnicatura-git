@@ -1,4 +1,4 @@
-package Java.EjercicioLibroAutor;
+package Java.Ejercicio01.EjercicioLibroAutor;
 import java.util.Scanner;
 
 public class LibroAutor {

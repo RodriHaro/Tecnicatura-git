@@ -18,6 +18,5 @@ public class ejercicio09 {
 
         precio_final = compra - descuento;
         System.out.println("El precio a pagar es: " + precio_final);
-        entrada.close();
     }
 }
